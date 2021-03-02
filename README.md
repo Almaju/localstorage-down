@@ -1,6 +1,6 @@
 # localstorage-down [![Build Status](https://travis-ci.org/No9/localstorage-down.svg)](https://travis-ci.org/No9/localstorage-down) [![Coverage Status](https://coveralls.io/repos/No9/localstorage-down/badge.svg?branch=master&service=github)](https://coveralls.io/github/No9/localstorage-down?branch=master)
 
-LocalStorage implementation of [leveldown](https://github.com/Level/leveldown) for mobile and desktop browsers. The idea is to be able to use the [level](http://github.com/level) stack on any browser that supports LocalStorage.
+chrome.local.storage implementation of [leveldown](https://github.com/Level/leveldown) for mobile and desktop browsers. The idea is to be able to use the [level](http://github.com/level) stack on any browser that supports Chrome Storage.
 
 The scenarios envisaged are:
 
@@ -12,7 +12,7 @@ This project is intended for use with the [level eco-system](https://github.com/
 ## Install
 
 ```
-npm install localstorage-down
+npm install chromestorage-down
 ```
 
 ## Browser support
